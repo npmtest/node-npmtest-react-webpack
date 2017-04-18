@@ -1,0 +1,82 @@
+<svg height="1262" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1262" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">22 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ react-webpack@0.4.1 </tspan>
+<tspan x="10" y="90">  ├─┬ css-loader@0.6.12 </tspan>
+<tspan x="10" y="106">  │ ├── csso@1.3.12 </tspan>
+<tspan x="10" y="122">  │ ├─┬ loader-utils@0.2.17 </tspan>
+<tspan x="10" y="138">  │ │ ├── big.js@3.1.3 </tspan>
+<tspan x="10" y="154">  │ │ ├── emojis-list@2.1.0 </tspan>
+<tspan x="10" y="170">  │ │ ├── json5@0.5.1 </tspan>
+<tspan x="10" y="186">  │ │ └── object-assign@4.1.1 </tspan>
+<tspan x="10" y="202">  │ └─┬ source-map@0.1.43 </tspan>
+<tspan x="10" y="218">  │   └── amdefine@1.0.1 </tspan>
+<tspan x="10" y="234">  ├─┬ envify@1.2.1 </tspan>
+<tspan x="10" y="250">  │ ├── esprima-fb@3001.1.0-dev-harmony-fb </tspan>
+<tspan x="10" y="266">  │ ├─┬ jstransform@3.0.0 </tspan>
+<tspan x="10" y="282">  │ │ ├── base62@0.1.1 </tspan>
+<tspan x="10" y="298">  │ │ └── source-map@0.1.31 </tspan>
+<tspan x="10" y="314">  │ ├── through@2.3.8 </tspan>
+<tspan x="10" y="330">  │ └─┬ xtend@2.1.2 </tspan>
+<tspan x="10" y="346">  │   └── object-keys@0.4.0 </tspan>
+<tspan x="10" y="362">  ├─┬ jsx-loader@0.9.0 </tspan>
+<tspan x="10" y="378">  │ └─┬ react-tools@0.9.0 </tspan>
+<tspan x="10" y="394">  │   └─┬ commoner@0.9.8 </tspan>
+<tspan x="10" y="410">  │     ├── commander@2.2.0 </tspan>
+<tspan x="10" y="426">  │     ├─┬ glob@3.2.11 </tspan>
+<tspan x="10" y="442">  │     │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="458">  │     │ └─┬ minimatch@0.3.0 </tspan>
+<tspan x="10" y="474">  │     │   ├── lru-cache@2.7.3 </tspan>
+<tspan x="10" y="490">  │     │   └── sigmund@1.0.1 </tspan>
+<tspan x="10" y="506">  │     ├── iconv-lite@0.2.11 </tspan>
+<tspan x="10" y="522">  │     ├── install@0.1.8 </tspan>
+<tspan x="10" y="538">  │     ├── private@0.1.7 </tspan>
+<tspan x="10" y="554">  │     ├── q@1.0.1 </tspan>
+<tspan x="10" y="570">  │     └─┬ recast@0.7.5 </tspan>
+<tspan x="10" y="586">  │       ├─┬ ast-types@0.4.13 </tspan>
+<tspan x="10" y="602">  │       │ └── depd@1.0.1 </tspan>
+<tspan x="10" y="618">  │       ├── cls@0.1.5 </tspan>
+<tspan x="10" y="634">  │       ├── esprima-fb@6001.1001.0-dev-harmony-fb </tspan>
+<tspan x="10" y="650">  │       └── source-map@0.1.32 </tspan>
+<tspan x="10" y="666">  ├── UNMET PEER DEPENDENCY less@^1.5</tspan>
+<tspan x="10" y="682">  ├── less-loader@0.7.8 </tspan>
+<tspan x="10" y="698">  ├── react@0.9.0 </tspan>
+<tspan x="10" y="714">  ├─┬ script-loader@0.5.2 </tspan>
+<tspan x="10" y="730">  │ └── raw-loader@0.5.1 </tspan>
+<tspan x="10" y="746">  ├── style-loader@0.6.5 </tspan>
+<tspan x="10" y="762">  └─┬ webpack@1.0.5 </tspan>
+<tspan x="10" y="778">    ├── async@0.2.10 </tspan>
+<tspan x="10" y="794">    ├── base64-encode@1.0.1 </tspan>
+<tspan x="10" y="810">    ├── clone@0.1.19 </tspan>
+<tspan x="10" y="826">    ├─┬ enhanced-resolve@0.7.6 </tspan>
+<tspan x="10" y="842">    │ ├── graceful-fs@2.0.3 </tspan>
+<tspan x="10" y="858">    │ └── memory-fs@0.1.1 </tspan>
+<tspan x="10" y="874">    ├── esprima@1.0.4 </tspan>
+<tspan x="10" y="890">    ├── mkdirp@0.3.5 </tspan>
+<tspan x="10" y="906">    ├─┬ node-libs-browser@0.1.2 </tspan>
+<tspan x="10" y="922">    │ ├─┬ buffer-browserify@0.0.4 </tspan>
+<tspan x="10" y="938">    │ │ └── base64-js@0.0.2 </tspan>
+<tspan x="10" y="954">    │ ├── console-browserify@0.1.6 </tspan>
+<tspan x="10" y="970">    │ ├── crypto-browserify@0.2.1 </tspan>
+<tspan x="10" y="986">    │ ├─┬ http-browserify@0.1.6 </tspan>
+<tspan x="10" y="1002">    │ │ └── concat-stream@0.0.8 </tspan>
+<tspan x="10" y="1018">    │ ├── vm-browserify@0.0.1 </tspan>
+<tspan x="10" y="1034">    │ └── zlib-browserify@0.0.1 </tspan>
+<tspan x="10" y="1050">    ├─┬ optimist@0.6.1 </tspan>
+<tspan x="10" y="1066">    │ ├── minimist@0.0.10 </tspan>
+<tspan x="10" y="1082">    │ └── wordwrap@0.0.3 </tspan>
+<tspan x="10" y="1098">    ├── tapable@0.1.10 </tspan>
+<tspan x="10" y="1114">    ├─┬ uglify-js@2.4.24 </tspan>
+<tspan x="10" y="1130">    │ ├── source-map@0.1.34 </tspan>
+<tspan x="10" y="1146">    │ ├── uglify-to-browserify@1.0.2 </tspan>
+<tspan x="10" y="1162">    │ └─┬ yargs@3.5.4 </tspan>
+<tspan x="10" y="1178">    │   ├── camelcase@1.2.1 </tspan>
+<tspan x="10" y="1194">    │   ├── decamelize@1.2.0 </tspan>
+<tspan x="10" y="1210">    │   ├── window-size@0.1.0 </tspan>
+<tspan x="10" y="1226">    │   └── wordwrap@0.0.2 </tspan>
+<tspan x="10" y="1242">    └── webpack-core@0.3.5</tspan>
+</text>
+</svg>
